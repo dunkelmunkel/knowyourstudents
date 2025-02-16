@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2023-10-14 22:30:19" program="oFb" progversion="3.5.00 1352">
+<title>Befragung zum Semesterstart</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">ger</attr>
+</attributes.specific>
+<file filename="logo.ger.4640.png" filesize="14334" encoding="base64">
+iVBORw0KGgoAAAANSUhEUgAAAIwAAAA5CAYAAADkx8P4AAABQGlDQ1BJQ0MgUHJvZmlsZQAAGJVj
+YGB8k1hQkMOiwMCQm1dSFOTupBARGaXA/pyBhYGZQYxBl0EvMbm4wDEgwIcBCGA0Kvh2jYERRF/W
+BZmVkvt7pvucgs7+aZdfbXC6sBpTPQrgTEktTgbSH4DYKrmgqISBgVEHyA4oLykAsWuAbJEioKOA
+7AkgdjqEvQTEToKwd4DVhAQ5A9lngGyFJCR2OhI7N6c0GWovyMU8qXmhwUBaDohlGFIZkhkyGYIY
+3BmcGBQYyhiMgKQngzMQljGYAMMHu14TsF5nhnyGAoZKhiKgCekMGQwlQL2OQJEChhyguSBz8oCm
+6zHoANlGDAZAbAwKZ/TwQ4gtq2BgCPwHYiHEdKcwMMwCsgVjEWJKJxkYhB8xMBy8UJBYlAgWYoZi
+hjsbGRiU/YHOCwcGTzUAzNRWXYzbhcoAAADaZVhJZk1NACoAAAAIAAYBEgADAAAAAQABAAABGgAF
+AAAAAQAAAFYBGwAFAAAAAQAAAF4BMQACAAAAIQAAAGYBMgACAAAAFAAAAIiHaQAEAAAAAQAAAJwA
+AAAAAAAASAAAAAEAAABIAAAAAUFkb2JlIFBob3Rvc2hvcCAyMS4yIChNYWNpbnRvc2gpAAAyMDIy
+OjA0OjEyIDE1OjU3OjQ2AAADkAQAAgAAABQAAADGoAIABAAAAAEAAACMoAMABAAAAAEAAAA5AAAA
+ADIwMjI6MDQ6MDEgMTY6MDM6MTMAP39iiAAAAAlwSFlzAAALEwAACxMBAJqcGAAACXNpVFh0WE1M
+OmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6
+eG1wdGs9IlhNUCBDb3JlIDYuMC4wIj4KICAgPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3
+LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4KICAgICAgPHJkZjpEZXNjcmlwdGlv
+biByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9l
+bGVtZW50cy8xLjEvIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20v
+eGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hh
+cC8xLjAvbW0vIgogICAgICAgICAgICB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94
+YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIgogICAgICAgICAgICB4bWxuczpwaG90b3Nob3A9
+Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRp
+ZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPGRjOmZvcm1hdD5p
+bWFnZS9wbmc8L2RjOmZvcm1hdD4KICAgICAgICAgPHhtcDpNb2RpZnlEYXRlPjIwMjItMDQtMTJU
+MTU6NTc6NDYrMDI6MDA8L3htcDpNb2RpZnlEYXRlPgogICAgICAgICA8eG1wOkNyZWF0b3JUb29s
+PkFkb2JlIFBob3Rvc2hvcCAyMS4yIChNYWNpbnRvc2gpPC94bXA6Q3JlYXRvclRvb2w+CiAgICAg
+ICAgIDx4bXA6Q3JlYXRlRGF0ZT4yMDIyLTA0LTAxVDE2OjAzOjEzKzAyOjAwPC94bXA6Q3JlYXRl
+RGF0ZT4KICAgICAgICAgPHhtcDpNZXRhZGF0YURhdGU+MjAyMi0wNC0xMlQxNTo1Nzo0NiswMjow
+MDwveG1wOk1ldGFkYXRhRGF0ZT4KICAgICAgICAgPHhtcE1NOkhpc3Rvcnk+CiAgICAgICAgICAg
+IDxyZGY6U2VxPgogICAgICAgICAgICAgICA8cmRmOmxpIHJkZjpwYXJzZVR5cGU9IlJlc291cmNl
+Ij4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OnNvZnR3YXJlQWdlbnQ+QWRvYmUgUGhvdG9zaG9w
+IDIxLjIgKE1hY2ludG9zaCk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAgICAgICAgICAgICAgICAg
+IDxzdEV2dDp3aGVuPjIwMjItMDQtMDFUMTY6MDM6MTMrMDI6MDA8L3N0RXZ0OndoZW4+CiAgICAg
+ICAgICAgICAgICAgIDxzdEV2dDppbnN0YW5jZUlEPnhtcC5paWQ6ODkxZGYzYjgtNDM3ZC00Yjdi
+LWJmN2UtNmE4YzFmMTg0ZTE5PC9zdEV2dDppbnN0YW5jZUlEPgogICAgICAgICAgICAgICAgICA8
+c3RFdnQ6YWN0aW9uPmNyZWF0ZWQ8L3N0RXZ0OmFjdGlvbj4KICAgICAgICAgICAgICAgPC9yZGY6
+bGk+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgogICAg
+ICAgICAgICAgICAgICA8c3RFdnQ6c29mdHdhcmVBZ2VudD5BZG9iZSBQaG90b3Nob3AgMjEuMiAo
+TWFjaW50b3NoKTwvc3RFdnQ6c29mdHdhcmVBZ2VudD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0
+OmNoYW5nZWQ+Lzwvc3RFdnQ6Y2hhbmdlZD4KICAgICAgICAgICAgICAgICAgPHN0RXZ0OndoZW4+
+MjAyMi0wNC0xMlQxNTo1Nzo0NiswMjowMDwvc3RFdnQ6d2hlbj4KICAgICAgICAgICAgICAgICAg
+PHN0RXZ0Omluc3RhbmNlSUQ+eG1wLmlpZDpjZmY0MWI0Zi1iZDlkLTRkNmYtYTMzOS05ZGVmNjNm
+OTIyYTI8L3N0RXZ0Omluc3RhbmNlSUQ+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDphY3Rpb24+
+c2F2ZWQ8L3N0RXZ0OmFjdGlvbj4KICAgICAgICAgICAgICAgPC9yZGY6bGk+CiAgICAgICAgICAg
+IDwvcmRmOlNlcT4KICAgICAgICAgPC94bXBNTTpIaXN0b3J5PgogICAgICAgICA8eG1wTU06T3Jp
+Z2luYWxEb2N1bWVudElEPnhtcC5kaWQ6ODkxZGYzYjgtNDM3ZC00YjdiLWJmN2UtNmE4YzFmMTg0
+ZTE5PC94bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ+CiAgICAgICAgIDx4bXBNTTpEb2N1bWVudElE
+PnhtcC5kaWQ6ODkxZGYzYjgtNDM3ZC00YjdiLWJmN2UtNmE4YzFmMTg0ZTE5PC94bXBNTTpEb2N1
+bWVudElEPgogICAgICAgICA8eG1wTU06SW5zdGFuY2VJRD54bXAuaWlkOmNmZjQxYjRmLWJkOWQt
+NGQ2Zi1hMzM5LTlkZWY2M2Y5MjJhMjwveG1wTU06SW5zdGFuY2VJRD4KICAgICAgICAgPHBob3Rv
+c2hvcDpJQ0NQcm9maWxlPmVjaVJHQiB2MiBJQ0N2NDwvcGhvdG9zaG9wOklDQ1Byb2ZpbGU+CiAg
+ICAgICAgIDxwaG90b3Nob3A6Q29sb3JNb2RlPjM8L3Bob3Rvc2hvcDpDb2xvck1vZGU+CiAgICAg
+ICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDx0aWZm
+OlhSZXNvbHV0aW9uPjcyPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1
+dGlvbj43MjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgPC9yZGY6RGVzY3JpcHRpb24+CiAgIDwv
+cmRmOlJERj4KPC94OnhtcG1ldGE+CqRZOaQAACv/SURBVHgB7Z0JnB1Ftf+ruu8+M1kJCRElIEJM
+QHb4ExaHzAQEREEN6B9BFIg+HyEzYXEDuUF9ojGZREQW/4gb+GR8BglbyCQZIAkBDZsGQVkiS1hC
+JplMZu7aXe97qm/P3Lm5k0wQJfl/rOTO7a7lVNWpX51z6lR1X63+Hf4hDpi0ctSH+UioV57WylQj
+aG5XMbVncpRy9R7KV2OVx0er0Xx2U8YMV0oPVcrUGKNT0IhDIwIlh3ShV+STU9r0KKO3kG+jUs56
+Ul4nxyvK918m7WXVmX1dn0K+imCWQUvCNtpXUWTAWz1gyr8TqnLAGIaQMCAwltXtpqLFfZWjJ5Dr
+QMDwQUq8n8HdUyX4l6J4FAIyhCH3BRLy8fgINHo/RPrcSxBIyselkJQLy0p6gXx5/gmAlHmejE+R
+9w8qrx9Ty7Y8q9O9VGiOclU7pd8meMJqqXWHg5SVbu4s4V/eHrNc1SlV+z6GYH9GdjzDsjdDMRKu
+CCSQCGqT8k2H0s4GRqoTlHUrx88BCGSH6xIXRzKkkBrDlPZHUmY0nz1Aw1i+xzDow1WSbknPrIyB
+3cZKEF8oEC8Q0qVvx4IwSmYBo4xMl/zRfyPzckeZe1Q+0q5P6HqLSBvMH2nnXUjFMkCFaQN9Qz3t
+qKkT+G7lf6vgdScCAW1T6XCODdSHfyw+TR3pq+izDvpt74Xk1vVa6bJC1SonPlr5qBblDAckDJTf
+xdR/UxX16+q4LW8NJH0G21Bbz0O1uwGi96mIBoj+oZQ9gjYeqFJqGHHAkebmqd1YueSSTqQdu3AM
+5T6CIlQqzqX0bgugVaqNnL9SsZ679eGqwL2ywDmM1g+gTiVPGIRoRTBBXP0sF7HlI74c1Z4WfP//
+GKSvAVAChksfS/fChxKISj23tkBxeI2qIz7T0aNPsPO+lNr3hb3iqlEMS50dRGZ6SLMvj1yt/uth
++rD9VpvVf1V8l/LAcwau6iQxj9SNVJ5/OKkfAUwfUTHAlKCZ3TTZs4MvwBGpEwawh/xC/NkIFwCJ
+xJIe9pi1vqdudoruDaHUEeCEIAoJVH7rxImX7m38wn7aOD3ZJS3LyVBiWGVWe09tpJ82LZXorrnH
+qOL5uaXXojOZpVVmZFUKOxCZmnLR2J7Cbm9uA7C2PUNP/erwXDb7O9eLfqa7fbboceL7D3aVam3Z
+WMOMD0Uien3PonmvSZ54w0yGruAF/eqdtVWKB1E3pqelWh5J3TMuar54353zn1VWQqWrDnhQIuBV
+dErTwY6nv5db2nJSNeLWmJ6AEjtTeQed0rQoGVFXr7pz3oryvGZlchJd/SxxZ6kheoTKMHQFC5xy
+C6lfEW7EUlJIngA8nWYzdz9UtT3X6IOAnoD9aagOoKYiyveu1Mb9DPxdm2xozmeWtBycbJx5lDH+
+eUabBaSdmV0y93yIanXYtIhafVNhWFcqlnXVAUbFxJpXaiqVT0QKiTQatcag2jw1daqgPQjrJ2rS
+YCKMrE9HbJ4wTfLKAIcSbQ20WtP5uob/HFnwo88mnc6GjFKPqqlphOsaz9KWttSnA/pIP8/vhkGR
+A7xEIWHJCq12Zr8M3pqSupUEW1ep4qlTHbl3tPtT46n/JvYHQYr5jtYREd0XqKObE+qkoTlLY+LT
+Bnp+Gprr1q1zN27c6LdS/ovtY/2E2zn++aJK2vIL10m7/H79l3qlLcKfrnVarVZ+pKhqjKMm2nwT
+Jxq1Zo227RP+0CedRjhMPRNQt6pns3o/GF0j9H8x+5yao+NvFT9w8VGenpReSdRK8/iwr6uu3Hmw
+sRngvA/VIy0QdSO2VHmQSSJgCtRZnp67aoiq1VeYztSFxeX6En1s962SLNK0mgSVpVsS42se0uVr
+AOapeGPTRVHX3FooOC/62qxzjP8XIUDHYPBNVudtap+3KdHQjN4uBQZYTCBCMLMELOWDU0q0zGmt
+UG82r/bsALdbGnn527Vk1MbUlJ79e4alAiNN6ugLpr/UqSUl15Xtim6wWUSFCt10OphNveUYtEpJ
+aEzeaP1mmAV10GsUqodbMurhUor0D5oARmhWSpDuSMF7yzKHCWXBUV53X1v6ysmw+arT8qk1YJ6t
+qVf9IyFbS9JAq56iA48I5172y26bT93LsAHA1Ye5+pDVm4ibZ9aoH6uNNTOIvQoQ1AAcadJA0kZU
+l0MbfLXZFHVEjXaT6ldmeeqTqtBzLmDZUk1FQYyGaLOniH/f6D2NMS9jxMdlzjtGjwerr8SnzPxY
+rnXunYjri7G2v0DcI1SW0E7B8ijRMPNX9H4vzPXVpHVkW1uuTjVccoSv/Wvp1CvAegPfd+VaWxYm
+GprORtBOB6gZrZ0rM61zlqv6L9cm3Pj1yI29tdFP0J5XMm3pazy/eeaQzZ3/lW1sGk1bbjTK/CG3
+ZN4l6sRLaxKeP495MIl23LrFK8xPKBOLJws/0w3Ne9KGq6jrvljD9Amucb8LIIY7ypnbsyR9RwBa
+kWqlYFQPbb8o3tB8APSoQp3K399KKnFfpu2fp10dnqcvL7TOfVIkXbKjczZ1NLDCvjs3Ys3XVcee
+sN69jkk0Brtxdiad/i0T71T6kuZza6Z17rzE5Ev2MsqfCyDHS7xn/D/Dy9GJxubbGbKxSPTzc7sd
+81yiY+V1WS9/adypwUdTnJ5b0tJE/Y7n+VRJmxqbWuDz0Y4xS7We93UsId+kGfiPsuCeiBmsumeb
+R2t+yXDfgK318WClZIHXJ/GFUBgEdKKgirSiC4kzVJ+hulJ/Mauck/ThW56uBA1LMyOS4tO+H22H
+WTfkl8y7w/f0k7RuDSLuFhWNXcH3XqnJTYfCjPk0+3I6/SJLxTE5k3wTANwAow/2tZoGt2UAPy1t
+8Y13N2Bswzb6oXJj04jaK9bYfCBxPzW+mYW6ux0m3YfYTybc2A8YmA/5RecCzP5JpJ8tNIi72MtF
+YjD4O9yOYVSWSXzC8xhQ8x6t/S/Szm7luzKLxAG2FDDeS7nrJZ9jIr/n3qW9C3zHWRA78ZLxdkaL
+eigPEGI+ewwExr1xtaM6EpObJkPn+2SbCV8ecB3TJkUSHZt+Qp1HaK0vcLR5S2WHi1oeBnj+QPxt
+fMMP2m70jygnqu1RuWdeLobZrzIhLzXaZ4Bcsroj6estTM7XHceZo1rPBMj6C7WxVMpx/D2o3/KB
+oYywCO9INjZfBt0v0to5vtIzAOgsIX34wmmuGKsAXdsBPrL7dX1Mz+lqsz/dKiUXxRPaLlKgehCe
+RJE2edyGe2JcP2FWJI+2dGX5XQqAHOGl9I2opP2wVb6eOuGSw4jzQfal2aVzHlTFwv/DaM/5Dj5E
+tCxG2v2ZtpZrgMQzCccbQQePI74p3zbvL4zNTOi+GqtnYBiEbNvcKwIa+du0o3OOUWcwIAtyS+fd
+m2ubdz0MeSGZ0h+DxiEA8bJ8+5xnNAylbKjuXi062ZqIl/uy0AWwZyXrpzOd1RGRfPFzmbb5y2nn
+/FrHY9DM+tySYdcbXRQd3J06qWkP2jWawUCC6A8ov7DY9bzhpDEVsBfCoFHJ2lyXXdryNXjwDWB2
+D8ADY+pTDMBNxD3E57/I3hWf3HQyk2eS76sLM21zV8GH2aprLGrGbIkUijfmdOxn5KO+NFhSZ1H3
+CCbRyTLZaMOIzNK5F0vfs0vm3epGigDce17ukRb/A9iSVpXRjy0bNm/0lCfqFY+uDUXmvgOPjubu
+Rd/xJ9G+ZYCHupAx+2y0qo5GmxJwHGuDHJv5kSo4DciXIoppMKARcjGVxf6J8s/oh8yqmg9ZmiVv
+sUPFdeBDZqhSE6fGeqL6Ga6iyckzm+yKQZkLjM8CTtMEpT8eO/HSAxCvFyg3Pj6mvU7AtRoGXzX0
+2P8Yboz3TQZ7jAw8NGoRn9NjjU3i6fwUeVgu6vuh8dEaVgiorNNh0r6xRIw49QKdvUJokPer3Idh
+pInEon4kNom83yPys340iqRTDxdj0Zb4Sc37JqY0nRNk1kPqGtYPd7zIKO5HlVY9OMzUn33tihgX
+1/qrNm8rRmYpwONa7Tljy+5HI6WHMQILadPn4vXU0TjzC9Q5ItfZ00b+p11HfTdx4kV7JxqbvqCS
+G2L0qbaQSAyL68zuEK5TjRl4qic4GsnoRq4o0d6A1PpG6oSLD4s3zPgogMKFry2AYczu9HsogJGB
+H5IcmjzdhdcAMSgK8OSCNvxJ+JgrqlnQf824/rogQ/+/tNsXgxWbJqaP2bKUMscBGvEYCWgsuPqX
+2OoualdbCfIXzSKzePhQSw/GMOn1I3yeskUmTFTq/h90U8FUZseFgKSFGX8novSNzGKWdL75vlP0
+FsD4RlPMLfCKfjRbM/RLdGVLLp64H0RuRMQuFlqg/0Tuz+f7W9y+SCdGyaxk4L7peeqXtP9K1Nhn
+Ou++ZmM2VhTV8gY07qKk2BdZoQG/7o3n1VsAdgTMugGO/SS3eO5C13XPZ+CG6KK5jzomyowk731d
+bjLru+56aNg2MHM/SZlTtF+8g5n+JyTSy5auShslKxMb9DJP+88G1/w1egV/XpKZD/iv1a66g3vU
+LbodgzYa1Z9H8mRUMXq/9p3D1b3XbibfokhBdUV8vZl23qfartmMPhxPvtmsQr/Vs3TeY55jzqIt
+J/pO5DeYJKON578m5Wy9vv6b9s1KuRaQUtc3KftJ1Pl5Nl2pe7FKi0i6qxiyPyVcDR/NGOW5D9r0
+1turgkBsGvy7cX1sZhX8+QSyw4ZSx0ukB/yKAuk8Ns0YlcrdbHO1Cmb7QnBTqd8r0/vut3mFfr0x
+Obn5SMlkV1+TmwFW9RBvnPkfSLSvSKrMQuyih6rn3IHYgftRTqScAXJdds+UqQyy5H3nQ189Vdtc
+YW9tVX+VdlbkEUkjUdgkPzB/Yn9zRSrPR74H8ymYJyizPHWy0BB/Bn4RhNX6MlGV3OCql0YalVhn
+VN1YF9+BxzfAXAvDxuFxIF1CZqRny27ZoO21LOFynVqWozLwUG+mig4+r2Vd5xQ19O9Z9cqeMZXv
+Lqp9xmqVXRdRC2/qsSsq5f+e2b2BMiNQXWdl2lg9YRDbvLvHHfVmzlfht5RdvxYjrdSW8jRpl+ST
+tkk7a+lH0LdIXz8kUylI31+w/QwmntxLCMvILo7EhX20vNpO3dKeujx8i3n92iJ0Q55JnWE7xTdj
++8QYSJulvNyHdYZxUl7oSr/Dsehdhkti9YC0gqXoDbFDYqnngM9emLYI+FJfqxcLY4tsmEbwDK/E
+kD6mD91h8jv5jU2U3GPsGFTBS4MhG5982ftzS2c/P5i8/84TckAkDBbRdkK4PEaqXMhy+ybThe8l
+dOJtpyyTmHUa4MqzOoxPbj4R9IEc0w0OUfusEDBeymlUi6tML7+X8tgdEb578MUU0MW1YhxQj78V
+LbQv9oWLXi+ypO52HJXEPI7RErFlthmEVrUMle2XPFvVW61gKZ8kVaNRXmRH6pZyYf7t0Q3rCPOH
+9/3KwV2EBnrCrLK2lqiywGAOs2/1XSZlapEyzwOA3a0hHPhhtspfEVHAgxzFT3M1g2o+o1MjzjN5
+cSAK/8EKjoh+gdrkH3jqF21vSLNlylIkRkckb7D/HqbTwSBvBZ1w1IGZ1M7Gr63NylG5HTCE9Ppl
+gBrI3CqAYHqwTZq97aPw9vKCAJurfz3V65bZE4bt0u3N2FfGRpXxTOjpWA3Og423kXavareqpaJA
+SCj4DlUSq50tZoVZpJLOOQBAylQZ1P5ludPW9eerSWyUa1w1gKWY68GRlMJjqUwxi460YyecZznm
+xgRExBdKpIIREVFF05Ujfh0Lk1Iyd8WsRAidcPTopUPerehLGckbxcFXupQvBthH6MiuBxDiE9Lh
+0gbmRiTaD9y2tZ6Uk3aG+YOGudEIKxbG2RN61ZgEPRd6UhVFfPzdrGBLeUNa3NpQlrcUIzkQiqZY
+Ubem7U60r75t0xViwrMYvGBVHlQrAIGfInElTRooTjrxH4X+KqJ2JOiH4c45gy4h8z4PT7TaDyMW
+TyhXRjuYzP4TePieo5mnQwzmAQiNF9X3VuGreb0UH9TTl/aC8goPw13y22kH42S7QZ3EYHKYSKQn
+IwAd7XtPGt8uYT9BvaBMxpIy0gTjv6qK+QeIiBAbAZ/v4fpQFYknAHPlTJDW04JiGyRkHyhYvWgB
+l8alrqdAVohLoNncFAu/Q5q+F5AdwcCKuOkbxLANfnE5SPk78o1DA/qD+FAmKE/GyDYUOjbQXqnb
+a4fOOmJKdWtAakZy/5FSNvIx5hyc4jTAImkCNFM06kDlRsfBM8kmbQzpyi2bgfTXy2OS5lkEYHkY
+wY05mowfp5yLA1LaHtXoblR3WR+E3CCDVq9ZiTHI7JZXsIE2jLWdtQpAZreXuz7b1nITy1rsGYBi
+2CSIxhyvkLkm3zaEfaDO0K6QIp6OMHM8/27xYFbWzbJ6JTP2aNKlg77Q8QvZG3Ntc68nTXwXdRZM
+4ndh9uPXeRgv8tn96Mi2QTI3X0WiF5YYFTDIAhBnarFwUW4ZRwrKQqpx5iHwcQqdkTYKriQ3xxVa
+Polr/Uxm7m9MISP9KGe2DzgYDP+K7OK5gDYwJNlLmgEb5gGacGDlG4kbYaegcFnP4pY/llVtj0ZQ
+27OCvzCf7xVezLW1nNUvHw5NdsR/iNgg2tqLAhq8sfGIKuSXZHPRM9SK73cNq28atikSNarte98T
+DzcI/B0gPMKKv3KCO3ytM5Y3/cC6HSJ0iUbaPRibs8SRGnuMoKOTnjDQIvp8L+r6TqquvmuEnRMV
+dNkTkr0U/CfNy6H4AS7FXS0M2KM0iwIZTwWO70OfXWQOLZLeLzB6AZ3G5rvpzFEkPgXfr8FlP40N
+ug3MvK8iaYTDAFkmKzhg4JInzDiKfaL7YPsmoYpVze67xTUkZeRKVZ08fYgpaLZBpKdhpFxKkDz2
+E5HzQcq/BE91cwuT56uAG5BFJzHrIWr1FRmhol1X9sbwfLZTeHNAAF5Y8txZegxxqV/4ouaTdAHN
+/pZsrQDGD+tI4pOlPjEUqMxi4UH62yjeYL+h6das0vsnWP+ahuYncFae5Ovix/2iFqkmWzpvPxiD
+oKBlQkO6vf0gJ4E1bN1YPstgNrNd/A9OBJu4hqOHsZSO10LXxLuSiMmqoST6tTpYp4bvruM14yiz
+FzMBkVVKC8uJGrPHHgbuLSXG6GhyJAw8wYmnFiUbZpzFwH0Nxr5Au0QiBlJOhs04OeM6dU7tbsNs
+vYm6cZQdvVW9Un8EsPkyCapxqNQeTxdM3nNpf4xOW0ciE+JR7Ui1WiZQEKRu38chomt0zcgRpbr3
+ou4xVeumFBAfrhN1KaMj31X15yVo/AN2ESE8kUmAbaO9wtkCWLZC/sgE2T+ozCDJYwdz6Odx5P1C
++CrRmApB6tv6qzX8pWRp9gyCBptDlnMvWJUUFuBwhD28oxqavmVyRWwS9HKxYwgi/tHUFrfGj9kZ
+W72pWn/Zz3QMZdozJUwUvZtmQmLDoBp6e9cPn2G1/b4hnsNoBRb5HoCagkHfJsNvmKt3OG5kZskQ
+ZoaRqgs1cdd5rLBl/SVwMGs349D3GJnTGAAZiFJbRcVIGKj+MNljk9jLqmwXe2SmRQYWmmcEdrJl
+cUBG6vb8VMbkn0z2bJiJVMsD3m6oHIrQno590weuoISIPstr2r9Atf8syzGMg4CR/Gf2Ys55hUcz
+7de+gkT7tY5yWKOQRcAwTE6M3XbaHUuNZVtgLOqUvGys/0PBvF8kNGHgmVtGX1qp5RyxMn8uA4yM
+K5YUgfMY31dJN9BAkZGuWpjucURUs3lEsmCzLASD4OT8xRxQZguFoxvKjyO+LqdRAKa/T6esYPVL
+wzk0G1h9saph4Ji1abazNq3tHf9SyYhvopsXtXSg3293nIjJ1GzZmMikyOtMI4swY/CMtQB0Utn2
+ea9wsnCU7BvJOR2IdKD/9irRK9UM8Qjez8U/3qLqp7cGdQ/ZmOzpZJCd6Yyo1B0ElmVygV/pqyq7
++VrO8zwsRyeIOh9QSBJWrZxjUi/JDWFfzAD5DlZXXuHnTJ67mDBDEWuMieY8r/uZPptesg4yyJNM
+Eow62Mq1QfInZKLn62WlwREqyEbDCS2cQEk3/koi72b4dCTymW5RC4l8ka12q8Mlc1kIJpMf06t8
+FV9X9P03sN6l8++1Az7wtC6jUXaJaCrdwTVpqjy4lea8it6tLBfRuAYianNi8ozjVbLuZdyCryQy
+dfgHnJthsNCoALaUlrZa8mEdEhkE6KF0MnIsIjE09RgzfUVUJ96fO24oh66L8qiI0As6S142YbfY
+YwuJ2pdZyFB3Vzdt+HWZ3WbpyhJHLlhdj8xYsDR/XseSS4iSePmQwdo6dkeaKLZH7BAVqJNb8zdM
+9DZWl8uzbfN/Qf42K5FE2O9AILs9H8y6i2mtDrdPHQxubGQ9GcF70+3G1f1lgCnVzlkRaMexF2i1
+jlv9DbPkDOA2gyxpA4mAA6Nshm2z0LYSTQzbQIBxY5DLnGxVFTqvvBTt84MZKUsOWZGxjJfx6Rd6
+QVgeW8bx0qVQKjp1Kpo4QMfrJrEUul08qCi0di1qIwSMpcI9m/22bvunt+7yOgQRVoozGb8jqy6M
+2ltMPvtcwF+xx4xbAtlRIkkxplsCnusUdhug0Vcna4Zu5IBVqyVs1HGijit72K/SajftpQlUqJnE
+kwNjOb4gYqwfL6sVI47Tx7DT6IWag1n9CnA4hk22MXQQMWqdgBAVpxGrkrqyFVU/wjhw7L0xKctU
+DA1sCAGbRJcNCndCX1ZJ1XtrC/AnWTIye0x283c5hJVGhJ/DcvgIGCtSp1dyGM3pY1ZpvfWKe9kC
+vaJeequK8QhNjdvZKQ46B99Pb/ts1ZA20POhz5wXW0HZw+EiAji6aqVTKSM5yGc8LxbUzZK8r24p
+1xes8ODWqI0Yr/PY7K1FlE+xVUtHRQLhJdKReE2ysXN+rm3OIj/XwxFWCkYTUT4OfHgVpTVFNU4b
+CiWeI8jRod6m9NU1mCs5zSgjbP9vu4AMHh/XSiPXny+5ewFjuec7XZzvEO8mgRiJRDyCl81d7XPe
+stEVf0i2nKXfR/v5LftSZh/tFfEZmCfAmFAQJFu2+b7ZYldJIoPLgq1b4xsg6DySJJ8bx9mPWk6m
+fd0eUtL6F4EDrSRdAibLMj2P32SJn+kab7zcvhFtRmvP+0QABjsNS/VgvGdG5nNL5t7oZbsnJgrF
+4cyJK/F7SNVIpoA1QDEnJweRAONjTnGknD+x9TuRIwEriLGTQwZYTljmM8vmP+LnM/tL3Vh8e6DR
+cdoJSQlC0/ZMXAHCxk0so1XC2dSGnbQWFXOaRJaCix/KN070InxgV+Iz+lG2R6X8Qu40ammgHXt2
+jxi+MW5qljFxxFLkMFhv2ZDGgN8sPxy2BIrmwdQeZDpTnmOidO/EG6ggecQRIZuOd+r/k1lFt12d
+bJj5I061/acs65Csv6WfLPfUHBrE0hJJE3gXb+GAz9Po6NllxEljZnnecsrcjLSW2VJg6okxgHHm
+zEJkv7+0YpCVAEwp4HhSS2jIXPLis5BBpbQTcTjk9BQ3OLOYPA6yzphx3J/KrDwI/wQcF1HXC3B6
+DGqMmc38/IttE9DnmidztDzNcyWdobiQl0OF2GZaXc33OmkfxDtJOQ3mn2ullkxXzTk6493A7H+E
+WnhYApWgTQNC4PTAJWXbKrSogoWL8X9IUx/nXuQmXTayF7IPmPo2cURg78giwvdfp8jXaMaXKHeU
+xZxXvJU2YMiq7wLucdQrfRPaKDBAXMz9AQLXYQ0/ZRwnxrhMgdpMHJjDAylLpdEEzs7sT3A5TENq
+BavbssEpv+zbqU5eo4Y4X+HcLgzFk7/tQGOkTQTjjtfHdj0rzyzp5OSmH5pofDpu+R4ab/eSuA6k
+gs1NL8I9Fi9vZ0sQbf/KwJX2gIS60BdmwY5gBSANCyqVhEAVMKf70RdCUiiK3yfILOVlfGR57Xsi
+8RiSXjqSPwji7GIChBXYesWO8uzTDL3RkMfmjKE2SnmFvrj8K/ecZG8K29YWlDx9tKS+MnrSl7K8
+NlXyI4T684hOsJyOsNMgW1iyqJC+Ohxspx4kkwBFeF1Om9O7mJfi+7FqUFLpftEKfv5Yp1sBXsmW
+CWex531pW4CBjeCOafBo8r3Ii79RkzgXaVe/OrndKuTVMITGJnMl52C+HYIOvY5JE5VHk/B5CA0Z
+qEi8v7iSOKlDXNdbBeJLHZNcNsgFgw+9/igWOtXoh4WsEOEmJCTmSiRiPcA2S+UfqTcsI2lhuUi8
+f702rSyv5JNBqMxXTm9btCrp2XsZcwpV45HQtUZziR/SZhvHQa9gMgiFMIgn2/YrGNPSdcDPgBfG
+d+2YFXMcG9lOaLeTjcfa9FzOwcTZoR6MdCmAipjqNCssWET6Ifekpgiu7ev8zOZl+H1zVhVsp/6d
+LhndgQBBieClluCz6givw8ZWiwvTqn0zK220POTVf+pUyx1k1XqL4/F0IuscaYMoqtKSWnQ9aKJ9
+Qs+RTVq4Ppgg6l2ko6i38oAxiISMo7nZwiC0X0Xf0/ay/A8qJIbtkjfLk2fxbMinAIsM+taTqawQ
+WPWAShQ7p5PXhXzKJrXSl8AWFZHy7/BOcID9rn2wJ17YDi3h9+DAsh1CfckASqy3imBKj7qWVNEz
+AD9lARtOhor8pVs5ZVB6iskcoydlVoaqKMweEUedCsRWGLfrfMtz3JwRTqTU4dnjhq5Qizrj9nrE
+0EfsmV85U5sYlkjE80dkRw5bbs/uyjna8vDS60aNmsgz4bDzlU5XziPLozE4BuLdi+c9gX2QsGmV
+Z3CFjoeK5imL5ORLxPPaqKbePk0eRuMU42lYSxPYpH8jW9Nzu5xbTk5pOgYn9hRxE/SjKWd0R40L
+JIg9w9sVTGK2D5KNM96HgHmPOPzs+eZheNrD88JJnmSR69UsNCqCNU5ZFdnovL4LqKTkOQfuq5gU
+vYVFQrv2bRAZ/1P6mK3BIjkFMNLY/iJPUnb+EMzWk6dHeVHO+fTjIfWxyyOqu8CgcR2G+vNcY0Yk
+5AH/MGrr78An1hevI5xQyvHUwxkZXy2kbMB8m6HfjLaWKG7oUXh1fhQ8uch81+ZsdM/NaKJ1AhYp
+5vkuO73smkgYtaYQbMLau60GXGJZvZ5lij4rtsBjaJ/zttkry/Rrj5g/YuTaejjpfydHKz/E+d0C
+zNqWKgrAIm/H6lHnApb/qZQsYdXbQlyYZ+f+3pw0Ol6U4wVqqOdE2J15zc5mX01G+fdkstGbnER+
+I8cLPs2bKf6b58BPwLZg+W+ORI6/iV39AKva82DyGhwho9AYf8c2WMNCl7dCqfMT7uZTYic1f2Uz
+W6JJl0fUlujfSl2JyTMvRBMcrlz3GpbOIzArLiX6bEkDMgX8BIexro7W1F+2wXOL0zByh2Hf8jDb
+jOOz6wuP8RTlcYlkYlUum2vCptzAqn4hviaeBdPrMV2ewlk+XbkcZXT1CnloTnuxSzgf/Sx77r9k
+w/VszJr30M7f9SzWf7RaQjzSpRWRtMCsTP0csJyG4bo9sBSRK6zkKJTx/y9g+fVAYBG6/cWzxOxq
+YUiGbabgTE7n2udlx5gzPPhvtPM0bHOTicKpDMgJeGWGsT/0TQzQ4xm8CyizO5r/SFOUh9TUsMzw
+YXeRv5FDcjjN/aPYVzoGwDyAqnkyXzDTE46+CJViVyX2IJY2e2R17HIchU0ARoZqUS/rxB9k1Ipc
+orC86BYvxSpfjJdxEQDDbeGcwnMwWYBxbD6bS7MUX51bMudahM83IPIzynVg5cjjx/dYer53tilG
+p+Pzmc2Dc11JV6fpwzjM/Ls9EzyDrtJs54hTrWQcI1kELOcKWKAxsGSR7Zw4JxzFHM/rj2CzbBMs
+0p5dGTCMM+JYnjzkyKLsACfGvGcqUT1Ilg28+AUDR79BJt4jp1N4T2+gv2fhS5PjkjxpqDeycFkB
+BV4x5jxjVZavf0na55AQe+Fy6wAsdbmRQ29iVZNnAE/MLp37M2Eam0ucfzaxhNM9ggUyB1kAmVav
+SpoN8u4pCYUcuADAjpNyfF74IwYlj8jG9cZT5Br6HQC0jnfj1HBfcH1dh3QR47RAwTzAF/DI2Zci
+4BhGW+Pc4KdRL8ULag0LMvFdqBdvWc9xkpIaWpH6PU8rbg8ssAWw1FI+J8+sOwfpSd2LtiVZpB4J
+uzJgaP4ssWOYWj6eVOd4GeisP+R7TLQHo15xI4/NrvY95xEAdJ/kA0BnZI4d8mjCV9eJLxdwyd7T
+PWwxrJZ0QPA+5PrvGJSFbKL9iZcL3G+BxB4TA2j3Ujj6EGWL4S5oPm38yMUM37XYMAvYLHjJ0hAy
+vC2CrxMSpuZ03IWzGfIj5flpVtu3IVFuYyOxQXv+guzSebPYSx0Xdzo/6xYjs3zHOwXAkuTfDSof
+VDHzV44U3B2NFWezz3kOtlE+5/nfYo372KaOSGFsJFCPe3++PWtW1O7OM0er8bV8zGzDk4skkpWQ
+AVQxltmLOzoTE3j++s+DAYv0zzJcLnbd0N/oG7gfaSZHeoeNe/tKN8+bzVsixCch/JLZOVAI+bmt
+PAOV3aF4Bt56cKWQeTDRgL3TyhOKw1GGHGCT83EVQUCCzCNFThPKOz6v0sf2XC25wiW4XG8vDNIt
+tT0y72y6dGDWz5mXgwqzyAVo6jnQNK7eUWvbYYeAo514+a7XKs2nXcBi40kv5T9ilFZPy2vBSFeU
+kz0ZG7dGoiLQ8qPjjvwg9swjxbWrXrY77U/z6jIJsuu++5muWlvPjZRfxves/mnltGzbSnnr6111
+Htft7RQN66QdEh/ms20Wmpo+LCNJR9auHaVN+kz92cuTsZH7PWdXbtgr3wEoPyFjEhCIzbI1WGSD
+FZGIXcMqUj2P9DoN4/ZXJq2c9DIE4t6BOqPsrhkQjynzcO0HpfVizL17vUgzWKUg/qp3OYjaCJvA
+zvOhqKDHzJ95AHJlyuO6yKfy4XqJz5vHyfMoactr5ob8FFqgG6DvWNjhAjtGfsdzh6LWrKz5CCcd
+1+vjelbb95zY13HtOL1/vARASUMl8Ff94+R2kAL8kJcoRuSlPlIU6Vur4jVXY4M1W1mSsfGyKO4b
+S1ktia0iLwWS16x2sgOv1EWooD+WaFR94aGkbS/0VbK9nO9CullRMw+j8Hq7tS7vOanyHv13oVn/
+kiorgSKVon6+CCxmYbCOBgSi/sThVu5Lkzjxq0TlvWLsNL+mHHWFntTzU+J36AXOkr9a2CkB0ytl
+ltWMQXD+FjX+JWvJy3tOJsiS05pt1fqzy8dJ35Eo9p11YWdQJWcjUb7BCuiDvHZDICHLeHa1S1Il
+lCghUDp5TsqYOcrpma0nWZ+QjHOvBzik+3a+d0rASEdCyx3VdCB392OozeBNSrfbtEG8sfrtMOPd
+KiPGp/owH071y4ucbR+fZOe7O/VZBr5J1Tnj7bPNgVErNl1oT0le36oecevLS5qN+bFKRObow4Pf
+FBjscnmwfd9pAWOZVgKGebR2oir4f4AZC1Qh8zk5bhimq0G+I3+wDPlX5bOSpJ2BrwckJaeb7ZMY
++753HmuXc5EoY+x5Wvk5i8BGEbCIXOHIBGXlHXQxhnAzqoc3oKqE++NyoPwzeLNTA8YyMASN/KxM
+zJN3tY2DmRfqY7pvkXQJdvXwAjPtTPtWJdHjO13olSJ1DHcFyHlTJT92YU5lQpwNLiaz/GUTsKR6
+AmnC4wn0TVSPgzyRU/zykzc59ZgFSrznVoxiu8lpebGDv1CyI8za6QEjnQnVk71eWdPCOyWbeFU0
+rnjO7ua7f43EYc8xCJLXXtVzEOhdsnUYXF5Qy9DKD1RIqNIW83BiHAb9ZCAgb8o4AZDwNAFXHNAm
+yIookCaicnRptSM928wvp2j7osab9aTsA5JZggVKBRCDlHf27y4BGMsQOYAc6veVqUOYWT9VY/XB
+ah1PIih9EzP0NlmCl7Ond1ZLpDz1x48uqLR47fh+B4IFBpXjIwxtCqUeQBKk7dD3q8G0IUXi6hBO
+i2OtAHHDY7V1HNmUlsiPSsi7dIN2BWMiRq0siS1I2MbQ+kHcDL8GZAv08VvWC3FbfzvAqgJISf9n
+hF0GMNJ5y6Byn8RDyTNg5LcBzgQrYzaZv5BpIftKi1W387hu7NpQjWnQ6Ts0JiqiaxAAKs9XX1IP
+1YhLO1eNGKK87P5QPYiaDiPqUIZ8Ao/u1yIr2PYDICITDVccyMaXK7IwQppjf9tIRqULF7/SqGD/
+Dna6F+pJueeItcFK0fr+tk+Y9s/+3qUAEzIDJrt4I0w4k/HXnAj35TXpH+XdD8ELRzbIioGfsHN8
+eSnPk6Q/i4x6SR3VLT+AZVciIb23+20eGjpcuf5otMY4BnY/BvgAaMlnX9oyykoIIS4AkaNWAIS/
+UrfwXX6AJgCIKB95SCXHi360WsGHX57wl+hjsn8nxQYLcpbbO/oLamH5d+p7lwRM2PnSTOu1Vaxd
+4Gt5u5W80HmS2p3uiUiX2byZASnIu/9ZUXDIClvyDb7fZIcaKSS/VMYz3FpnOQsTqAb7tJG8i80k
++CBfeBje5+f5lBbLREDChzd484ZwdnE4dUJdVFEyRrkAHH2PkAg0IqikIJ+kilHrqde5egK6D3HY
+4QEVzTweGq+SxYLkJkAyzdpjYuG862GXBkzIPQucMh+GxJuHEvtwvPF4BnYyt0cyuPtiWLp20MTi
+EPbLR+Z74M0IBpxRsgOPGAJMJMo3X2Gw5exgB+UCUEis5ApOronaiXAr9QjtwEbhfcVs/BkV/IAn
+p3H5mZlnsGawwfqClZ7t0KrfttrrK/GvvSpnxb+25n9Cbb1iu2K1IIei1R5x3oniHICkOBBVxdOR
+Zm+aMJbPCAY2aW0L6xIrY4ngpVooy2JBJ280E3kSvInqLbCzDjSupS4eHEMVGr6TsRf1IZu2eqeB
+bRvQxtKxUHy3VnbVulktrrzr1dJ32bhe8GDQho6+ys7YX4X1EvxsMGrGiKrRqByfH/7UQxAzPNjn
+iDoSdSJSR8zTIi561BY+D0dsJEdePNSBOtnAu0feYp3Toeq7Ng5kI9EmWVG59rcgxW801UqRgWBZ
+2dyd4v5/ARv7LqkJZSeBAAAAAElFTkSuQmCC
+</file>
+<section>
+<title>Grundsätzliche Einstellung zum Lernen und zur Veranstaltung</title>
+<attributes.specific program="ofb">
+<attr id="id">GE</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>Einstellung</description>
+<class>scale</class>
+<title>Wie stark trifft die folgende Aussage auf Sie/dich zu?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">trifft überhaupt nicht zu</li>
+<li i="5">trifft vollkommen zu</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.metrics.interim">40</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ich lerne gerne.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich kann mich selbst zum Lernen motivieren.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich freue mich auf die Veranstaltung.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich möchte die Prüfung zur Veranstaltung möglichst gut bestehen.</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Mitbringsel</description>
+<class>checkbox</class>
+<title>Ich kann Folgendes in die Lehrveranstaltung mitbringen (Mehrfachwahl möglich):</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text>einen Laptop</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>ein Tablet</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>ein Smartphone</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Lerngewohnheiten</title>
+<attributes.specific program="ofb">
+<attr id="id">LG</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>Lerngewohnheiten</description>
+<class>scale</class>
+<title>Wie stark trifft die folgende Aussage auf Sie/dich zu?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">trifft überhaupt nicht zu</li>
+<li i="5">trifft vollkommen zu</li>
+</labels>
+<lead>Ich lerne am effektivsten…</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.metrics.interim">40</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>... mit digitalen Unterlagen.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... mit Unterlagen in Papierform.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... in Videokonferenzen.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... in Präsenzveranstaltungen.</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... mit Videos.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... mit Texten.</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... mit Podcasts.</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... allein.</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... in einer Lerngruppe.</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Kommunikation</title>
+<attributes.specific program="ofb">
+<attr id="id">KO</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<question>
+<description>StudDuSie</description>
+<class>select</class>
+<title>Welcher Aussage würden Sie/würdest du am ehesten zustimmen? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>Wenn ich die Wahl hätte, dann würde ich vom Dozenten gerne …</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">1</value>
+</condition>
+<effect type="+pg">
+<value id="pg">DU</value>
+</effect>
+</filter>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+pg">
+<value id="pg">SIE</value>
+</effect>
+</filter>
+<item>
+<text>geduzt werden.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>gesiezt werden.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>DozDuSie</description>
+<class>select</class>
+<title>Du möchtest gerne vom Dozenten geduzt werden. Und anders herum?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ich möchte den Dozenten gerne duzen.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich möchte den Dozenten gerne siezen.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>VornameNachname</description>
+<class>select</class>
+<title>Wenn ich gesiezt werde, dann möchte ich vom Dozenten ...</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>mit Vornamen angesprochen werden.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>mit Nachnamen angesprochen werden.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>WarumDuzen</description>
+<class>text</class>
+<title>Warum möchtest du vom Dozenten geduzt werden? (optional)</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height">100</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>WarumSiezen</description>
+<class>text</class>
+<title>Warum möchten Sie vom Dozenten gesiezt werden? (optional)</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="width">800</attr>
+<attr id="height">100</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>KOPlattformen</description>
+<class>checkbox</class>
+<title>Folgende Chat-Tools nutze ich häufig (Mehrfachwahl möglich):</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<item>
+<text>WhatsApp</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Signal</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Telegram</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Threema</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Snapchat</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Facebook Messenger</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="width">400</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Discord</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="width">400</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Andere</text>
+<textinput>yes</textinput>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="width">400</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>KOForen</description>
+<class>scale</class>
+<title>Wie stark trifft die folgende Aussage auf Sie/dich zu?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">trifft überhaupt nicht zu</li>
+<li i="5">trifft vollkommen zu</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="scale.metrics.interim">40</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ich nutze Foren (z.B. in Stud.IP oder Moodle), um Fragen mit Kommiliton*innen zu diskutieren.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich nutze Chat-Tools (z.B. WhatsApp), um mich mit Kommiliton*innen zu Lehrveranstaltungen auszutauschen.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>KODozent</description>
+<class>select</class>
+<title>Ich wünsche mir, dass der Dozent in Chat-Tools an Diskussionen zur Lehrveranstaltung teilnimmt. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ja</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>nein</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Social Media</title>
+<attributes.specific program="ofb">
+<attr id="id">SM</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<question>
+<description>SMPlattformen</description>
+<class>checkbox</class>
+<title>Folgende Social-Media-Plattformen nutze ich häufig (Mehrfachwahl möglich):</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<item>
+<text>TikTok</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Instagram</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Twitter / X</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Fediverse (z. B. Mastodon)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Facebook</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>YouTube</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Reddit</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>LinkedIn</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Twitch</text>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="width">400</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Jodel</text>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Andere:</text>
+<textinput>yes</textinput>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="width">400</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMZweck</description>
+<class>scale</class>
+<title>Wie häufig nutzen Sie/nutzt Du Social Media in den folgenden Kontexten?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nie</li>
+<li i="2">selten</li>
+<li i="3">gelegentlich</li>
+<li i="4">oft</li>
+<li i="5">sehr oft</li>
+</labels>
+<lead>Ich nutze Social Media…</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.display">complete</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>... privat.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... im Rahmen meines Studiums.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>SMTeilen</description>
+<class>select</class>
+<title>Ich würde gerne meine Arbeitsergebnisse, meine Ideen oder lustige Vorkommnisse aus der Lehrveranstaltung als Text, Foto oder Video auf Social-Media-Plattformen teilen.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ja</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>nein</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Werkzeuge</title>
+<attributes.specific program="ofb">
+<attr id="id">WE</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<question>
+<description>WEHäufigkeit</description>
+<class>scale</class>
+<title>Wie oft nutzen Sie/nutzt du die folgenden Werkzeuge beim Lernen?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">nie</li>
+<li i="2">selten</li>
+<li i="3">gelegentlich</li>
+<li i="4">oft</li>
+<li i="5">sehr oft</li>
+</labels>
+<lead>Beim Lernen nutze ich…</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.display">complete</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Tabellenkalkulationssoftware.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>dynamische Geometriesysteme.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Computeralgebrasysteme.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eine Notiz-App.</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>eine Literaturverwaltung.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Online-Kollaborationsumgebungen (z. B. Google Docs, Etherpad, Miro, Padlet).</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+<item>
+<text>KI-Sprachassistenten (z. B. ChatGPT, Bard).</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Übersetzungsprogramme (z. B. DeepL, Google Translate).</text>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>WEChatGPT</description>
+<class>scale</class>
+<title>Im letzten Jahr sind KI-Werkzeuge (KI = Künstliche Intelligenz) wie zum Beispiel das Tool ChatGPT in den öffentlichen Medien und in Social Media sehr intensiv diskutiert worden.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">trifft überhaupt nicht zu</li>
+<li i="5">trifft vollkommen zu</li>
+</labels>
+<lead>Wie stark trifft die folgende Aussage auf Sie/dich zu?</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="scale.metrics.interim">40</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ich fühle mich kompetent bei der Nutzung von KI-Werkzeugen wie z. B. ChatGPT.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>WEKIKennen</description>
+<class>text</class>
+<title>
+<![CDATA[Welche KI-Werkzeuge neben ChatGPT kennen Sie/kennst du? 
+]]>
+</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="width">800</attr>
+<attr id="height">100</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>WEKINutzen</description>
+<class>select</class>
+<title>
+<![CDATA[Ich würde gerne im Rahmen dieser Lehrveranstaltung KI-Tools wie 
+z. B. ChatGPT einsetzen.]]>
+</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ja</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>nein</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Methodische Elemente</title>
+<attributes.specific program="ofb">
+<attr id="id">ME</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<question>
+<description>MEBewegung</description>
+<class>select</class>
+<title>Ich wünsche mir in der Veranstaltung kurze Pausen mit Bewegungsübungen.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ja</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>nein</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>MEAchtsamkeit</description>
+<class>select</class>
+<title>Ich wünsche mir in der Veranstaltung kurze Pausen mit Achtsamkeitsübungen.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>ja</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>nein</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Lehrveranstaltung</title>
+<attributes.specific program="ofb">
+<attr id="id">LV</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+<question>
+<description>LVTeilnahme</description>
+<class>checkbox</class>
+<title>Ich nehme an folgenden Lehrveranstaltungen teil (Mehrfachwahl möglich):</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Fun with Algebra</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Fun with Geometry (Primarstufe)</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Fun with Geometry (Sekundarstfufe)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Inside Math!</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>LVSonst</description>
+<class>text</class>
+<title>Was ich noch sagen möchte/Was mir sonst noch wichtig ist:</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="width">800</attr>
+<attr id="height">100</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<textelement>
+<type>default</type>
+<content>
+<![CDATA[<h2>Befragung zum Semesterstart</h2><p>Liebe*r Student*in, &nbsp;&nbsp;</p><p>wir werden in diesem Semester zusammen eine Lehrveranstaltung durchführen. Ich möchte mit Hilfe dieser Umfrage die Lerngruppe kennenlernen, damit ich Sie/dich besser beim Lernen unterstützen kann.</p><p>Die Umfrage ist anonym und freiwillig. Sie kann jederzeit ohne Weiteres abgebrochen werden. Die Umfrage dauert ca. 10 Minuten.</p><p class="sceditor-nlf"><br></p>]]>
+</content>
+<label>Einfuehrung</label>
+<align>default</align>
+<attributes.specific program="ofb">
+<attr id="vsStamp">1340</attr>
+</attributes.specific>
+</textelement>
+<surveyLayout version="2.4" program="oFb" progversion="3.5.00 1352">
+<name>PHHD</name>
+<title>PHHD</title>
+<template>
+<![CDATA[<!DOCTYPE html>
+<html>
+<head>
+%head%
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+body { padding: 0 0 20px 0; margin: 0 }
+div#s2t-progress { position: absolute; right: 10px; top: 0px; width: 200px }
+div#s2t-logo { margin-bottom: 10px }
+div.questionary { min-width: 300px; max-width: %width%; margin: 14px auto 0px auto; padding: 0 10px }
+
+/* Center header and footer on smartphone */
+@media (max-width: 450px) {
+	div#s2t-logo { text-align: center; margin-bottom: 16px }
+	div#s2t-controls { text-align: center }
+	div#s2t-imprint { text-align: center }
+	div#s2t-progress { left: 0; right: 0; margin: 0 auto }
+}
+</style>
+</head>
+
+<body>
+<div class="questionary" style="position: relative">
+%form.open%
+<div id="s2t-logo">%logo%</div>
+<div style="position: relative">
+	<div style="padding-top: 2px; margin: 0px 0px 24px 0px; height: 10px; width: 100%; border-bottom: 2px solid %color.4%; overflow: hidden"></div>
+	<div id="s2t-progress" style="background-color: #FFFFFF">%progress%<span><!-- empty span required for IE --></span></div>
+</div>
+<div id="s2t-content">
+<div style="margin-bottom: 32px;"></div>
+%questionnaire%
+</div>
+<hr style="margin-bottom: 14px;">
+<div id="s2t-controls">
+%button.control%
+</div>
+%form.close%
+<div id="s2t-imprint">
+%imprint%
+</div>
+</div>
+</body>
+</html>]]>
+</template>
+<defaultStatus>yes</defaultStatus>
+<attributes.specific program="ofb">
+<attr id="body.font-size">18px</attr>
+<attr id="selectable.textSelected">color.4</attr>
+</attributes.specific>
+</surveyLayout>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="ger"><![CDATA[<a href="mailto:spannagel@ph-heidelberg.de">Prof. Dr. Christian Spannagel</a>, 
+Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
+<layoutText id="default.logo"><txt lng="ger">project://logo.ger.4640.png</txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Fragebogen</title>
+<attributes.specific program="ofb">
+<attr id="id">base</attr>
+<attr id="content">
+<![CDATA[<?xml version="1.0"?>
+<questionnaire>
+
+<!-- Seite 1 -->
+<page ident="Start" intID="1">
+<info>Startseite</info>
+<text id="Einfuehrung" intID="2">
+	<spacing>default</spacing>
+</text>
+</page>
+
+
+<!-- Seite 2 -->
+<page ident="GE" intID="3">
+<info>Grundsätzliche Einstellung</info>
+<question id="GE01" intID="4" />
+<question id="GE02" intID="5" />
+</page>
+
+
+<!-- Seite 3 -->
+<page ident="LG" intID="6">
+<info>Lerngewohnheiten</info>
+<question id="LG01" intID="7" />
+</page>
+
+
+<!-- Seite 4 -->
+<page ident="SM" intID="8">
+<info>Social Media</info>
+<question id="SM01" intID="9" />
+<question id="SM02" intID="10" />
+<question id="SM03" intID="11" />
+</page>
+
+
+<!-- Seite 5 -->
+<page ident="WE" intID="12">
+<info>Werkzeuge</info>
+<question id="WE01" intID="13" />
+<question id="WE02" intID="14" />
+<question id="WE03" intID="15" />
+<question id="WE04" intID="16" />
+</page>
+
+
+<!-- Seite 6 -->
+<page ident="KO1" intID="17">
+<info>Kommunikation</info>
+<question id="KO06" intID="18" />
+<question id="KO07" intID="19" />
+<question id="KO08" intID="20" />
+<question id="KO01" intID="21" />
+</page>
+
+
+<!-- Seite 7 -->
+<page ident="DU" intID="22">
+<info>Duzen</info>
+<question id="KO02" intID="23" />
+<question id="KO04" intID="24" />
+</page>
+
+
+<!-- Seite 8 -->
+<page ident="SIE" intID="25">
+<info>Siezen</info>
+<question id="KO03" intID="26" />
+<question id="KO05" intID="27" />
+</page>
+
+
+<!-- Seite 9 -->
+<page ident="ME" intID="28">
+<info>Methodische Elemente</info>
+<question id="ME01" intID="29" />
+<question id="ME02" intID="30" />
+</page>
+
+
+<!-- Seite 10 -->
+<page ident="LV" intID="31">
+<info>Lehrveranstaltung</info>
+<question id="LV01" intID="32" />
+<question id="LV02" intID="33" />
+</page>
+
+
+</questionnaire>]]>
+</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Vielen Dank für Ihre/deine Teilnahme!</h1>
+
+<p>Vielen Dank für Ihre/deine Teilnahme an der Umfrage! Die Ergebnisse werden wir in der ersten Veranstaltungssitzung besprechen.</p>
+
+<p>Bis dahin alles Gute!</p>
+
+<p>Christian Spannagel</p>
+</p>
+<p>&nbsp;</p>
+<h4>Kontaktmöglichkeiten:</h4>
+<ul>
+<li>E-Mail: <a href="mailto:spannagel@ph-heidelberg.de">spannagel@ph-heidelberg.de</a></li>
+<li><a href="https://www.ph-heidelberg.de/mathematik/personen/lehrende/spannagel.html">Website</a></li>
+<li>Instagram: <a href="https://www.instagram.com/dunkelmunkel/">@dunkelmunkel</a></li>
+<li>TikTok: <a href="https://www.tiktok.com/@_cspannagel_">@_cspannagel_</a></li>
+<li>Twitter/X: <a href="https://twitter.com/dunkelmunkel">@dunkelmunkel</a></li>
+<li>Mastodon: <a href="https://scholar.social/@cspannagel">@cspannagel@scholar.social</a></li>
+<li>Snapchat: <a href="https://www.snapchat.com/add/spannagelc">spannagelc</a></li>
+<li>Telegram: <a href="https://t.me/cspannagel">cspannagel</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/christian-spannagel-31b7b4a1/">Christian Spannagel</a></li>
+<li>Youtube: <a href="https://www.youtube.com/pharithmetik">Math for the Masses</a></li>
+</ul>
+
+<!-- Hier evtl. noch Zweck der Studie, Ansprechpartner, etc. -->
+ <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Ihre Antworten wurden gespeichert. Sie können das Browser-Fenster nun schließen.</p>
+
+<!-- Zusätzlicher Abstand (ggf. entfernen/anpassen) -->
+<div style="padding-bottom: 20px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+<attr id="backbutton">yes</attr>
+<attr id="probePreset">no</attr>
+</attributes.specific>
+</questionnaire>
+<setting name="DataFilter" key="df" encoding="json">
+{"started.first":"","started.last":"","lastdata.first":"","lastdata.last":"","progress":"finished","dfStatus":2}</setting>
+</surveyProject>
