@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
-<surveyProject version="2.4" timestamp="2023-10-14 22:30:19" program="oFb" progversion="3.5.00 1352">
+<surveyProject version="2.4" timestamp="2025-02-17 14:09:01" program="oFb" progversion="3.6.11 1373">
 <title>Befragung zum Semesterstart</title>
 <description />
 <attributes.specific program="ofb">
@@ -310,6 +310,20 @@ iDoSdSJSR8zTIi561BY+D0dsJEdePNSBOtnAu0feYp3Toeq7Ng5kI9EmWVG59rcgxW801UqRgWBZ
 <attributes.specific program="ofb">
 <attr id="id">4</attr>
 <attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich lerne gerne allein.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich lerne gerne in einer Lerngruppe.</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
 </attributes.specific>
 </item>
 </question>
@@ -754,62 +768,25 @@ iDoSdSJSR8zTIi561BY+D0dsJEdePNSBOtnAu0feYp3Toeq7Ng5kI9EmWVG59rcgxW801UqRgWBZ
 </attributes.specific>
 </item>
 <item>
-<text>Fediverse (z. B. Mastodon)</text>
-<attributes.specific program="ofb">
-<attr id="id">4</attr>
-<attr id="pos">4</attr>
-</attributes.specific>
-</item>
-<item>
-<text>Facebook</text>
-<attributes.specific program="ofb">
-<attr id="id">5</attr>
-<attr id="pos">5</attr>
-</attributes.specific>
-</item>
-<item>
-<text>YouTube</text>
-<attributes.specific program="ofb">
-<attr id="id">6</attr>
-<attr id="pos">6</attr>
-</attributes.specific>
-</item>
-<item>
-<text>Reddit</text>
-<attributes.specific program="ofb">
-<attr id="id">7</attr>
-<attr id="pos">7</attr>
-</attributes.specific>
-</item>
-<item>
-<text>LinkedIn</text>
+<text>SnapChat</text>
 <attributes.specific program="ofb">
 <attr id="id">8</attr>
-<attr id="pos">8</attr>
+<attr id="pos">4</attr>
 </attributes.specific>
 </item>
 <item>
 <text>Twitch</text>
 <attributes.specific program="ofb">
 <attr id="id">9</attr>
-<attr id="pos">9</attr>
+<attr id="pos">5</attr>
 <attr id="width">400</attr>
 </attributes.specific>
 </item>
 <item>
-<text>Jodel</text>
+<text>Discord</text>
 <attributes.specific program="ofb">
 <attr id="id">10</attr>
-<attr id="pos">10</attr>
-</attributes.specific>
-</item>
-<item>
-<text>Andere:</text>
-<textinput>yes</textinput>
-<attributes.specific program="ofb">
-<attr id="id">11</attr>
-<attr id="pos">11</attr>
-<attr id="width">400</attr>
+<attr id="pos">6</attr>
 </attributes.specific>
 </item>
 </question>
@@ -846,6 +823,20 @@ iDoSdSJSR8zTIi561BY+D0dsJEdePNSBOtnAu0feYp3Toeq7Ng5kI9EmWVG59rcgxW801UqRgWBZ
 <attributes.specific program="ofb">
 <attr id="id">2</attr>
 <attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... produktiv (ich poste eigenen Content)</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>... rezeptiv (ich schau mir Beiträge anderer an)</text>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
 </attributes.specific>
 </item>
 </question>
@@ -947,7 +938,7 @@ iDoSdSJSR8zTIi561BY+D0dsJEdePNSBOtnAu0feYp3Toeq7Ng5kI9EmWVG59rcgxW801UqRgWBZ
 </attributes.specific>
 </item>
 <item>
-<text>KI-Sprachassistenten (z. B. ChatGPT, Bard).</text>
+<text>KI-Sprachassistenten (z. B. ChatGPT, Gemini).</text>
 <attributes.specific program="ofb">
 <attr id="id">7</attr>
 <attr id="pos">7</attr>
@@ -1123,31 +1114,24 @@ z. B. ChatGPT einsetzen.]]>
 <attr id="restrictions.answered">yes</attr>
 </attributes.specific>
 <item>
-<text>Fun with Algebra</text>
+<text>Inside Math!</text>
 <attributes.specific program="ofb">
 <attr id="id">1</attr>
 <attr id="pos">1</attr>
 </attributes.specific>
 </item>
 <item>
-<text>Fun with Geometry (Primarstufe)</text>
+<text>Mathematische Grundlagen II - Geometrie</text>
 <attributes.specific program="ofb">
 <attr id="id">2</attr>
 <attr id="pos">2</attr>
 </attributes.specific>
 </item>
 <item>
-<text>Fun with Geometry (Sekundarstfufe)</text>
+<text>Fun with Geometry</text>
 <attributes.specific program="ofb">
 <attr id="id">3</attr>
 <attr id="pos">3</attr>
-</attributes.specific>
-</item>
-<item>
-<text>Inside Math!</text>
-<attributes.specific program="ofb">
-<attr id="id">4</attr>
-<attr id="pos">4</attr>
 </attributes.specific>
 </item>
 </question>
@@ -1173,6 +1157,74 @@ z. B. ChatGPT einsetzen.]]>
 </item>
 </question>
 </section>
+<section>
+<title>Einstellung zu Mathe</title>
+<attributes.specific program="ofb">
+<attr id="id">EM</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+<question>
+<description>Mathe-Einstellung</description>
+<class>scale</class>
+<title>Wie stark trifft die folgende Aussage auf Sie/dich zu?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">trifft überhaupt nicht zu</li>
+<li i="5">trifft vollkommen zu</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="scale.metrics.interim">40</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>Ich mag Mathe.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich kann auch schwierige Matheaufgaben lösen, wenn ich mir Mühe gebe.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Ich habe Angst vor Mathe.</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In der Schule war ich in Mathe immer gut.</text>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Wenn ich mich anstrenge, kann ich mich in Mathe verbessern.</text>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+</item>
+<item>
+<text>In Mathe bin ich ein hoffnungsloser Fall.</text>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
 <textelement>
 <type>default</type>
 <content>
@@ -1184,7 +1236,7 @@ z. B. ChatGPT einsetzen.]]>
 <attr id="vsStamp">1340</attr>
 </attributes.specific>
 </textelement>
-<surveyLayout version="2.4" program="oFb" progversion="3.5.00 1352">
+<surveyLayout version="2.4" program="oFb" progversion="3.6.11 1373">
 <name>PHHD</name>
 <title>PHHD</title>
 <template>
@@ -1265,14 +1317,13 @@ Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
 <page ident="GE" intID="3">
 <info>Grundsätzliche Einstellung</info>
 <question id="GE01" intID="4" />
-<question id="GE02" intID="5" />
 </page>
 
 
 <!-- Seite 3 -->
-<page ident="LG" intID="6">
-<info>Lerngewohnheiten</info>
-<question id="LG01" intID="7" />
+<page ident="EM" intID="6">
+<info>Einstellung Mathe</info>
+<question id="EM01" intID="7" />
 </page>
 
 
@@ -1281,31 +1332,11 @@ Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
 <info>Social Media</info>
 <question id="SM01" intID="9" />
 <question id="SM02" intID="10" />
-<question id="SM03" intID="11" />
+<question id="KO01" intID="5" />
 </page>
 
 
 <!-- Seite 5 -->
-<page ident="WE" intID="12">
-<info>Werkzeuge</info>
-<question id="WE01" intID="13" />
-<question id="WE02" intID="14" />
-<question id="WE03" intID="15" />
-<question id="WE04" intID="16" />
-</page>
-
-
-<!-- Seite 6 -->
-<page ident="KO1" intID="17">
-<info>Kommunikation</info>
-<question id="KO06" intID="18" />
-<question id="KO07" intID="19" />
-<question id="KO08" intID="20" />
-<question id="KO01" intID="21" />
-</page>
-
-
-<!-- Seite 7 -->
 <page ident="DU" intID="22">
 <info>Duzen</info>
 <question id="KO02" intID="23" />
@@ -1313,7 +1344,7 @@ Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
 </page>
 
 
-<!-- Seite 8 -->
+<!-- Seite 6 -->
 <page ident="SIE" intID="25">
 <info>Siezen</info>
 <question id="KO03" intID="26" />
@@ -1321,15 +1352,7 @@ Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
 </page>
 
 
-<!-- Seite 9 -->
-<page ident="ME" intID="28">
-<info>Methodische Elemente</info>
-<question id="ME01" intID="29" />
-<question id="ME02" intID="30" />
-</page>
-
-
-<!-- Seite 10 -->
+<!-- Seite 7 -->
 <page ident="LV" intID="31">
 <info>Lehrveranstaltung</info>
 <question id="LV01" intID="32" />
@@ -1353,16 +1376,20 @@ Pädagogische Hochschule Heidelberg – 2023]]></txt></layoutText>
 <ul>
 <li>E-Mail: <a href="mailto:spannagel@ph-heidelberg.de">spannagel@ph-heidelberg.de</a></li>
 <li><a href="https://www.ph-heidelberg.de/mathematik/personen/lehrende/spannagel.html">Website</a></li>
+<li><a href="https://discord.com/invite/WYgECstu7T">Discord</a></li>
+<li>Facebook: <a href="https://www.facebook.com/chr.spannagel">chr.spannagel</a></li>
 <li>Instagram: <a href="https://www.instagram.com/dunkelmunkel/">@dunkelmunkel</a></li>
-<li>TikTok: <a href="https://www.tiktok.com/@_cspannagel_">@_cspannagel_</a></li>
-<li>Twitter/X: <a href="https://twitter.com/dunkelmunkel">@dunkelmunkel</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/christian-spannagel-31b7b4a1/">Christian Spannagel</a></li>
 <li>Mastodon: <a href="https://scholar.social/@cspannagel">@cspannagel@scholar.social</a></li>
 <li>Snapchat: <a href="https://www.snapchat.com/add/spannagelc">spannagelc</a></li>
 <li>Telegram: <a href="https://t.me/cspannagel">cspannagel</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/christian-spannagel-31b7b4a1/">Christian Spannagel</a></li>
-<li>Youtube: <a href="https://www.youtube.com/pharithmetik">Math for the Masses</a></li>
+<li>Tellonym: <a href="https://tellonym.me/christian.spannagel">christian.spannagel</a></li>
+<li>Threads: <a href="https://www.threads.net/@dunkelmunkel">@dunkelmunkel</a></li>
+<li>TikTok: <a href="https://www.tiktok.com/@_cspannagel_">@_cspannagel_</a></li>
+<li>Twitch: <a href="https://www.twitch.tv/cspannagel">cspannagel</a></li>
+<li>X/Twitter: <a href="https://twitter.com/dunkelmunkel">@dunkelmunkel</a></li>
+<li>Youtube: <a href="https://www.youtube.com/pharithmetik">pharithmetik</a></li>
 </ul>
-
 <!-- Hier evtl. noch Zweck der Studie, Ansprechpartner, etc. -->
  <p>&nbsp;</p>
 <p>&nbsp;</p>
